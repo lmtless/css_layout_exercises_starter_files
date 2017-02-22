@@ -1,0 +1,37 @@
+body {
+	font-size: 0;
+	padding: 50px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.top {
+	display: inline-block;
+	width: 50%;
+	height: 200px;
+}
+.top-green {
+	background-color: green;
+	border: 1px solid black;
+}
+.top-blue {
+	background-color: blue;
+	border: 1px solid black;
+}
+.bottom {
+	display: inline-block;
+	width: 33.33%;
+	height: 300px;
+}
+.bottom-grey {
+	background-color: grey;
+	border: 1px solid black;
+}
+.bottom-black {
+	background-color: black;
+	border: 1px solid black;
+}
+.bottom-orange {
+	background-color: orange;
+	border: 1px solid black;
+}
